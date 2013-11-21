@@ -1,6 +1,6 @@
 # Maintainer: Philipp Schmitt (philipp<at>schmitt<dot>co)
 
-pkgname=monodevelop-monogame-addin
+pkgname=monodevelop-monogame-addin-git
 pkgver=3.0.1
 pkgrel=1
 pkgdesc='Monodevelop addin for monogame'
