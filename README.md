@@ -9,3 +9,4 @@ makepkg -si
 
 ## Links
 * Upstream: http://monogame.codeplex.com 
+* AUR: https://aur.archlinux.org/packages/monodevelop-monogame-addin-git/
